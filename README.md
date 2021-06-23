@@ -1,6 +1,7 @@
 <h1 align="center">Bookshelf App</h1>
 
-<p align="center"> Bookshelf App is a dynamic website for managing Books built using JavaScript and allow to save key/value pairs in a web browser using localStorage. </p>
+<p align="center"> [DICODING SUBMISSION]
+  Bookshelf App is a dynamic website for managing Books built using JavaScript and allow to save key/value pairs in a web browser using localStorage. </p>
 
 ## Screenshots
 
